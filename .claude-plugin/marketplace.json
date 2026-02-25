@@ -1,10 +1,16 @@
 {
     "name": "akashp1712",
     "description": "Akash Panchal's Claude Code Extensions",
-    "owner": "akashp1712",
-    "plugins": {
-        "crux": "https://github.com/akashp1712/claude-crux"
+    "owner": {
+        "name": "akashp1712"
     },
+    "plugins": [
+        {
+            "name": "crux",
+            "source": "https://github.com/akashp1712/claude-crux",
+            "description": "Solves Context Compaction with a Causal Graph"
+        }
+    ],
     "skills": {
         "prompt-guard": "https://github.com/akashp1712/skills/tree/main/prompt-guard",
         "next-loading-skeleton": "https://github.com/akashp1712/skills/tree/main/next-loading-skeleton"
