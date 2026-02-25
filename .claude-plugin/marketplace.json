@@ -7,12 +7,8 @@
     "plugins": [
         {
             "name": "crux",
-            "source": "akashp1712/claude-crux",
+            "source": "https://github.com/akashp1712/claude-crux.git",
             "description": "Solves Context Compaction with a Causal Graph"
         }
-    ],
-    "skills": {
-        "prompt-guard": "https://github.com/akashp1712/skills/tree/main/prompt-guard",
-        "next-loading-skeleton": "https://github.com/akashp1712/skills/tree/main/next-loading-skeleton"
-    }
+    ]
 }
