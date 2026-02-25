@@ -1,6 +1,6 @@
 {
     "name": "akashp1712",
-    "description": "Akash Panchal's Claude Code Extensions",
+    "description": "Akash Panchal's Claude Code Extensions & Skills",
     "owner": {
         "name": "akashp1712"
     },
@@ -11,7 +11,20 @@
                 "source": "github",
                 "repo": "akashp1712/claude-crux"
             },
-            "description": "Solves Context Compaction with a Causal Graph"
+            "description": "🧠 Solves Context Compaction with a Causal Graph - Never forget WHY you made architectural decisions"
+        },
+        {
+            "name": "akash-skills",
+            "description": "🛡️ Collection of production-ready Agent Skills for security, productivity, and development",
+            "source": {
+                "source": "github",
+                "repo": "akashp1712/skills"
+            },
+            "strict": false,
+            "skills": [
+                "./skills/prompt-guard",
+                "./skills/next-loading-skeleton"
+            ]
         }
     ]
 }
