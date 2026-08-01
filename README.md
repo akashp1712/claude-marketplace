@@ -51,6 +51,9 @@ npx skills add akashp1712/skills --skill prompt-guard
 
 # Better UX for Next.js
 npx skills add akashp1712/skills --skill next-loading-skeleton
+
+# Reclaim disk from stale dev caches
+npx skills add akashp1712/skills --skill workspace-disk-cleanup
 ```
 
 ### 3. Start Creating!
@@ -70,6 +73,7 @@ That's it! Your tools are now ready to enhance your Claude Code experience.
 |-------|-------------|----------|
 | **prompt-guard** | 🔒 Unbreakable security against injection/jailbreaks | Production, security-critical apps |
 | **next-loading-skeleton** | ⚡ Beautiful loading states for Next.js | Web apps, dashboards, user experience |
+| **workspace-disk-cleanup** | 🧹 Remove stale `node_modules` / `.next` / `.venv` safely | Free disk space across local workspaces |
 
 ---
 

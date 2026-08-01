@@ -23,7 +23,8 @@
             "strict": false,
             "skills": [
                 "./skills/prompt-guard",
-                "./skills/next-loading-skeleton"
+                "./skills/next-loading-skeleton",
+                "./workspace-disk-cleanup"
             ]
         }
     ]
