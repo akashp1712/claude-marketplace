@@ -15,7 +15,7 @@
         },
         {
             "name": "four-answers",
-            "description": "🎯 Forces answers into YES, NO, DATA, or I DON'T KNOW — no hedging, no speculation. Auto-applies on decisions and factual questions.",
+            "description": "🎯 Bezos's four answers only: Yes, No, a number, or I don't know but I'll know it by X. No hedging. Auto-applies on decisions and factual questions.",
             "source": {
                 "source": "github",
                 "repo": "akashp1712/skills"
