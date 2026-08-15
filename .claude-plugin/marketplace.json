@@ -14,6 +14,18 @@
             "description": "🧠 Solves Context Compaction with a Causal Graph - Never forget WHY you made architectural decisions"
         },
         {
+            "name": "four-answers",
+            "description": "🎯 Forces answers into YES, NO, DATA, or I DON'T KNOW — no hedging, no speculation. Auto-applies on decisions and factual questions.",
+            "source": {
+                "source": "github",
+                "repo": "akashp1712/skills"
+            },
+            "strict": false,
+            "skills": [
+                "./skills/four-answers"
+            ]
+        },
+        {
             "name": "akash-skills",
             "description": "🛡️ Collection of production-ready Agent Skills for security, productivity, and development",
             "source": {
