@@ -15,7 +15,7 @@
         },
         {
             "name": "four-answers",
-            "description": "🎯 Bezos's four answers only: Yes, No, a number, or I don't know but I'll know it by X. No hedging. Auto-applies on decisions and factual questions.",
+            "description": "🎯 Amazon Write Like an Amazonian — Yes, No, a number, or I don't know but I'll know it by X. No weasel words. Auto-applies on decisions and factual questions.",
             "source": {
                 "source": "github",
                 "repo": "akashp1712/skills"
