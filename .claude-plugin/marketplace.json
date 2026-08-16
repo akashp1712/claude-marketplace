@@ -14,15 +14,16 @@
             "description": "🧠 Solves Context Compaction with a Causal Graph - Never forget WHY you made architectural decisions"
         },
         {
-            "name": "four-answers",
-            "description": "🎯 Amazon Write Like an Amazonian — Yes, No, a number, or I don't know but I'll know it by X. No weasel words. Auto-applies on decisions and factual questions.",
+            "name": "amazon-writing",
+            "description": "📝 Write Like an Amazonian — four-answers wedge + all Amazon doc types (1-pager, 6-pager, PR/FAQ, tenets, COE) with lint.",
             "source": {
                 "source": "github",
                 "repo": "akashp1712/skills"
             },
             "strict": false,
             "skills": [
-                "./skills/four-answers"
+                "./four-answers",
+                "./amazon-writing"
             ]
         },
         {
@@ -34,8 +35,9 @@
             },
             "strict": false,
             "skills": [
-                "./skills/prompt-guard",
-                "./skills/next-loading-skeleton",
+                "./prompt-guard",
+                "./next-loading-skeleton",
+                "./zero-to-hero",
                 "./workspace-disk-cleanup"
             ]
         }
