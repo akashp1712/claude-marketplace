@@ -39,6 +39,7 @@
                 "./prompt-guard",
                 "./next-loading-skeleton",
                 "./zero-to-hero",
+                "./carousel-press",
                 "./workspace-disk-cleanup"
             ]
         }
