@@ -37,6 +37,7 @@
             "skills": [
                 "./prompt-guard",
                 "./next-loading-skeleton",
+                "./next-error-tsx",
                 "./zero-to-hero",
                 "./carousel-press",
                 "./workspace-disk-cleanup"
