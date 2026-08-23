@@ -39,7 +39,6 @@
                 "./next-loading-skeleton",
                 "./zero-to-hero",
                 "./carousel-press",
-                "./and-nothing-else",
                 "./workspace-disk-cleanup"
             ]
         }
