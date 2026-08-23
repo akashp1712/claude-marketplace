@@ -15,7 +15,7 @@
         },
         {
             "name": "amazon-writing",
-            "description": "📝 Write Like an Amazonian — four-answers wedge, all Amazon doc types (1-pager, 6-pager, PR/FAQ, tenets, COE) with lint, plus operating mechanisms for day-job founders and one-person companies.",
+            "description": "📝 Write Like an Amazonian — four-answers wedge, all Amazon doc types (1-pager, 6-pager, PR/FAQ, tenets, COE) with lint.",
             "source": {
                 "source": "github",
                 "repo": "akashp1712/skills"
@@ -23,9 +23,7 @@
             "strict": false,
             "skills": [
                 "./four-answers",
-                "./amazon-writing",
-                "./day-job-founder",
-                "./solo-founder"
+                "./amazon-writing"
             ]
         },
         {
@@ -41,6 +39,7 @@
                 "./next-loading-skeleton",
                 "./zero-to-hero",
                 "./carousel-press",
+                "./and-nothing-else",
                 "./workspace-disk-cleanup"
             ]
         }
